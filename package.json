@@ -1,6 +1,6 @@
 {
   "name": "sugo-ci-agent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CI scripts for agent projects.",
   "main": "lib",
   "scripts": {

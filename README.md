@@ -102,6 +102,7 @@ Available functions
 | `.report(options) -> Promise` | Send coverage report. |
 | `.share(pkg, options) -> Promise` | Share the project |
 | `.test(options) -> Promise` | Run test for the project. |
+| `.update(options) -> Promise` | Update dependencies for the project. |
 
 
 <!-- Section from "doc/guides/03.Functions.md.hbs" End -->
