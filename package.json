@@ -1,6 +1,6 @@
 {
   "name": "sugo-ci-agent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CI scripts for agent projects.",
   "main": "lib",
   "scripts": {
@@ -8,7 +8,9 @@
     "test": "./ci/test.js"
   },
   "repository": "realglobe-Inc/sugo-ci-agent",
-  "keywords": [],
+  "keywords": [
+    "SUGOS"
+  ],
   "author": {
     "name": "Taka Okunishi",
     "email": "okunishitaka.com@gmail.com",
@@ -16,9 +18,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/realglobe-Inc/suto-demo-ci/issues"
+    "url": "https://github.com/realglobe-Inc/sugo-ci-agent/issues"
   },
-  "homepage": "https://github.com/realglobe-Inc/suto-demo-ci#readme",
+  "homepage": "https://github.com/realglobe-Inc/sugo-ci-agent#readme",
   "dependencies": {
     "ape-compiling": "^4.3.3",
     "ape-covering": "^3.0.3",
