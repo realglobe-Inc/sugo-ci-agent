@@ -1,6 +1,6 @@
 {
   "name": "sugo-ci-agent",
-  "version": "1.0.9",
+  "version": "2.0.0",
   "description": "CI scripts for agent projects.",
   "main": "lib",
   "scripts": {
@@ -33,13 +33,13 @@
     "ape-updating": "^4.0.5",
     "ape-watching": "^2.1.4",
     "co": "^4.6.0",
+    "coz": "^6.0.16",
     "defaults": "^1.0.3",
     "stringcase": "^3.0.1"
   },
   "devDependencies": {
     "aglob": "^2.0.1",
     "ape-doc": "^2.0.4",
-    "coz": "^6.0.16",
     "injectmock": "^2.0.0",
     "sugos-travis": "^2.0.7"
   },
